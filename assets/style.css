@@ -1,0 +1,17 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: #004080;
+}
+
+.btn-primary {
+    background-color: #0055cc;
+}
+
+footer {
+    font-size: 0.9rem;
+    color: #666;
+}
